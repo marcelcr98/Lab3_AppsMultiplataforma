@@ -1,0 +1,9 @@
+﻿<ContentPage.Content>
+    <ScrollView>
+        <StackLayout>
+            <BoxView BackgroundColor="Red" HeightRequest="600" WidthRequest="150" />
+            <Entry />
+        </StackLayout>
+    </ScrollView>
+</ContentPage.Content>
+
